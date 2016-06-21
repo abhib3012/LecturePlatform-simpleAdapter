@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lecture Platform</string>
+    <string name="previous">next</string>
+    <string name="next">next</string>
+    <string name="app_name_with_index">PdfRendererBasic</string>
+</resources>
